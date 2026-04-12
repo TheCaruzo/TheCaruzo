@@ -9,7 +9,7 @@
 
 ### 🚀 O que estou desenvolvendo no momento
 - 💻 Construindo de ponta a ponta uma **plataforma interna** para o mercado financeiro, com módulos de **Compliance/Prevenção a Fraudes** e **Conciliação Operacional**.
-- 🏗️ Atuando como desenvolvedor único utilizando **Python, Django, JavaScript, HTML/CSS** e **SQL Server** sob a arquitetura MVT.
+- 🏗️ Atuando como desenvolvedor utilizando **Python, Django, JavaScript, HTML/CSS** e **SQL Server** sob a arquitetura MVT.
 - 📊 Estruturando pipelines ETL e gerenciando bancos de dados e infraestrutura em nuvem.
 - 🎓 Cursando Bacharelado em Ciência de Dados e Inteligência Artificial (Previsão: Jul/2027), e formado em Relações Internacionais (2022).
 
